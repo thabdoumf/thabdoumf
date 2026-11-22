@@ -44,5 +44,5 @@ My public GitHub repository. More details and documentation will be added as the
 ### Contact
 
 - GitHub: https://github.com/thabdoumf
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/abderrahmen-miloudi-8b0b08218/
+- Email: anesmiloudi2245@gmail.com
