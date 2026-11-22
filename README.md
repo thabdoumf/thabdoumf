@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Abdourahmane
 
-<!--
-**thabdoumf/thabdoumf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Master's Student in Artificial Intelligence | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate currently pursuing a Master's degree in Artificial Intelligence at Djillali Liabes University, Algeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, artificial intelligence, machine learning, and building practical applications.
+
+### About Me
+
+- Master's student in Artificial Intelligence
+- Computer Science graduate
+- Interested in Full-Stack Development and Machine Learning
+- Building web applications and academic projects
+- Based in Algeria
+
+### Technologies & Tools
+
+- **Programming:** PHP, Python, JavaScript
+- **Web Development:** HTML, CSS
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+### Featured Projects
+
+**Élara – Clothing Rental Platform**
+
+A web application developed as my Licence project. It allows users to browse clothing products and manage rental operations.
+
+Technologies: PHP, MySQL, HTML, CSS, JavaScript.
+
+**Bulletin**
+
+My public GitHub repository. More details and documentation will be added as the project develops.
+
+### Current Learning Goals
+
+- Artificial Intelligence
+- Machine Learning
+- Python Development
+- Data Structures and Algorithms
+- Software Engineering
+
+### Contact
+
+- GitHub: https://github.com/thabdoumf
+- LinkedIn: [Add your LinkedIn profile URL]
+- Email: [Add your professional email]
