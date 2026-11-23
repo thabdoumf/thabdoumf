@@ -67,7 +67,7 @@ Sidi Bel Abbès, Algeria
 
 ## Contact
 
-- **GitHub:** [github.com/thabd oumf](https://github.com/thabd oumf)
+- **GitHub:** https://github.com/thabdoumf
 - **LinkedIn:** [Abderrahmane Miloudi](https://www.linkedin.com/in/abderrahmen-miloudi-8b0b08218/)
 - **Email:** anesmiloudi2245@gmail.com
 
