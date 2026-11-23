@@ -1,39 +1,55 @@
-# Hi, I'm Abdourahmane
+# Hi, I'm Abderrahmane Miloudi
 
-### Computer Science Graduate | Master's Student in Artificial Intelligence | Full-Stack Developer
+Master's student in Artificial Intelligence at Djillali Liabes University, Algeria. I hold a Bachelor's degree in Computer Science and have an interest in software development, artificial intelligence, and machine learning.
 
-I'm a Computer Science graduate currently pursuing a Master's degree in Artificial Intelligence at Djillali Liabes University, Algeria.
+I enjoy building web applications, learning new technologies, and developing projects that solve practical problems.
 
-I'm interested in software development, artificial intelligence, machine learning, and building practical applications.
-
-### About Me
+## About Me
 
 - Master's student in Artificial Intelligence
 - Computer Science graduate
-- Interested in Full-Stack Development and Machine Learning
-- Building web applications and academic projects
-- Based in Algeria
+- Based in Sidi Bel Abbès, Algeria
+- Interested in Artificial Intelligence and Machine Learning
+- Building projects with PHP, Python, JavaScript, and MySQL
 
-### Technologies & Tools
+## Technical Skills
 
-- **Programming:** PHP, Python, JavaScript
-- **Web Development:** HTML, CSS
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, XAMPP
+**Programming Languages**
+- PHP
+- Python
+- JavaScript
 
-### Featured Projects
+**Web Development**
+- HTML
+- CSS
+- Bootstrap
 
-**Élara – Clothing Rental Platform**
+**Database**
+- MySQL
 
-A web application developed as my Licence project. It allows users to browse clothing products and manage rental operations.
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+- XAMPP
 
-Technologies: PHP, MySQL, HTML, CSS, JavaScript.
+## Featured Projects
 
-**Bulletin**
+### Élara – Clothing Rental Platform
 
-My public GitHub repository. More details and documentation will be added as the project develops.
+A full-stack web application developed as my Computer Science graduation project at Djillali Liabes University.
 
-### Current Learning Goals
+The platform allows users to browse clothing products, submit rental requests, and manage their rental history. It also provides an administration dashboard for managing products, stock, and rental operations.
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, PHPMailer
+
+[View Project on GitHub](https://github.com/thabdoumf/elara-clothing-rental)
+
+[View Project Screenshots](https://github.com/thabdoumf/elara-clothing-rental/tree/main/screenshots)
+
+![Élara Admin Dashboard](https://raw.githubusercontent.com/thabdoumf/elara-clothing-rental/main/screenshots/01_elara_screenshot.png)
+
+## Current Learning Goals
 
 - Artificial Intelligence
 - Machine Learning
@@ -41,8 +57,22 @@ My public GitHub repository. More details and documentation will be added as the
 - Data Structures and Algorithms
 - Software Engineering
 
-### Contact
+## Education
 
-- GitHub: https://github.com/thabdoumf
-- LinkedIn: https://www.linkedin.com/in/abderrahmen-miloudi-8b0b08218/
-- Email: anesmiloudi2245@gmail.com
+**Master's Degree in Artificial Intelligence**  
+Djillali Liabes University – Sidi Bel Abbès, Algeria  
+2026 – Present
+
+**Bachelor's Degree in Computer Science**  
+Djillali Liabes University – Sidi Bel Abbès, Algeria  
+2025 – 2026
+
+## Connect With Me
+
+- GitHub: [github.com/thabdoumf](https://github.com/thabdoumf)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/abderrahmen-miloudi-8b0b8218/)
+- Email: [anesmiloudi2245@gmail.com](mailto:anesmiloudi2245@gmail.com)
+
+---
+
+*Always learning. Always building.*
