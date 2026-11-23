@@ -37,17 +37,13 @@ I enjoy building web applications, learning new technologies, and developing pro
 
 ### Élara – Clothing Rental Platform
 
-A full-stack web application developed as my Computer Science graduation project at Djillali Liabes University.
+A web application developed as my Computer Science graduation project at Djillali Liabes University.
 
-The platform allows users to browse clothing products, submit rental requests, and manage their rental history. It also provides an administration dashboard for managing products, stock, and rental operations.
+Élara allows users to browse clothing products, search and filter items, manage rental requests, and view their rental history. It also includes an administration dashboard for managing products, stock, sizes, and rentals.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, PHPMailer
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap.
 
-[View Project on GitHub](https://github.com/thabdoumf/elara-clothing-rental)
-
-[View Project Screenshots](https://github.com/thabdoumf/elara-clothing-rental/tree/main/screenshots)
-
-![Élara Admin Dashboard](https://raw.githubusercontent.com/thabdoumf/elara-clothing-rental/main/screenshots/01_elara_screenshot.png)
+**Repository:** [Élara – Clothing Rental Platform](https://github.com/thabd oumf/elara-clothing-rental)
 
 ## Current Learning Goals
 
@@ -59,20 +55,22 @@ The platform allows users to browse clothing products, submit rental requests, a
 
 ## Education
 
-**Master's Degree in Artificial Intelligence**  
-Djillali Liabes University – Sidi Bel Abbès, Algeria  
-2026 – Present
+**Master 1 in Artificial Intelligence**  
+Djillali Liabes University  
+Sidi Bel Abbès, Algeria  
+2026–Present
 
 **Bachelor's Degree in Computer Science**  
-Djillali Liabes University – Sidi Bel Abbès, Algeria  
-2025 – 2026
+Djillali Liabes University  
+Sidi Bel Abbès, Algeria  
+2025–2026
 
-## Connect With Me
+## Contact
 
-- GitHub: [github.com/thabdoumf](https://github.com/thabdoumf)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/abderrahmen-miloudi-8b0b8218/)
-- Email: [anesmiloudi2245@gmail.com](mailto:anesmiloudi2245@gmail.com)
+- **GitHub:** [github.com/thabd oumf](https://github.com/thabd oumf)
+- **LinkedIn:** [Abderrahmane Miloudi](https://www.linkedin.com/in/abderrahmen-miloudi-8b0b08218/)
+- **Email:** anesmiloudi2245@gmail.com
 
 ---
 
-*Always learning. Always building.*
+I'm open to learning opportunities, academic collaborations, and projects related to software development and artificial intelligence.
