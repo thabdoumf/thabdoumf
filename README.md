@@ -43,7 +43,7 @@ A web application developed as my Computer Science graduation project at Djillal
 
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap.
 
-**Repository:** [Élara – Clothing Rental Platform] https://github.com/thabdoumf/elara-clothing-rental
+**Repository:** Élara – Clothing Rental Platform https://github.com/thabdoumf/elara-clothing-rental
 
 ## Current Learning Goals
 
